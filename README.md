@@ -21,7 +21,6 @@ Ich baue **Minecraft Plugins** und **moderne kleine Websites** – clean, schnel
 
 **Minecraft Development**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-%23FF6600.svg?style=for-the-badge&logo=spigotmc&logoColor=white)
 ![Paper](https://img.shields.io/badge/Paper-%234A90E2.svg?style=for-the-badge&logo=paper&logoColor=white)
 
 **Web Development**  
