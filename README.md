@@ -44,14 +44,10 @@ Ich baue **Minecraft Plugins** und **moderne kleine Websites** – clean, schnel
 **Freelance Anfragen** immer willkommen.
 
 - **Discord:** `froopdev`
+- **Email:** `benedikt.contact@proton.me`
 - Schreib mir gerne eine Issue oder DM
 
 **“Code is like humor. When you have to explain it, it’s bad.”**
 
-*Made with ☕ & late-night Minecraft coding*
-
 ---
-
-**Danke fürs Vorbeischauen!** ✨
-
 </div>
