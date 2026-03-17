@@ -42,7 +42,7 @@ Ich baue **Minecraft Plugins** und **moderne kleine Websites** – clean, schnel
 
 **Freelance Anfragen** immer willkommen.
 
-- **Discord:** `froopdev`
+- **Discord:** `42ne.sys`
 - **Email:** `benedikt.contact@proton.me`
 - Schreib mir gerne eine Issue oder DM
 
